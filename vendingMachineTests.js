@@ -25,7 +25,6 @@ describe("vendingMachine", function(){
     expect(result).toEqual("INSERT COIN"); //todo - INSERT COIN should be a constant
   });
   
-  //todo - test to assert display says INSERT COIN when no coins are inserted
   
   
   // ************* Select Product ************* //
